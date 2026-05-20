@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: ideal0802/mynginx:v1.0
+        image: ideal0802/mynginx:v2.0
         ports:
         - containerPort: 80
         resources:
